@@ -5,4 +5,4 @@ From the IMDb dataset, print the title and rating of those movies which have a g
 You can access the datset from the file <em>IMDb Dataset</em>
 
 ## Solution
-<em Query 1</em> and <em>Query 2</em> are two alternative solutions to the problem given above. 
+<em>Query 1</em> and <em>Query 2</em> are two alternative solutions to the problem given above. 
