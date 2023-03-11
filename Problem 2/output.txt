@@ -1,0 +1,17 @@
+   genre   |  net_profit  
+-----------+--------------
+ Action    | 1922170898.0
+ Adventure | 1212921290.0
+ Animation |  495645778.0
+ Biography |  323851006.0
+ Comedy    |  495645778.0
+ Crime     |   82129755.0
+ Drama     |  529619540.0
+ Fantasy   | 1144107136.0
+ Musical   |  529619540.0
+ Romance   |  529619540.0
+ Sci-Fi    | 1922170898.0
+ Thriller  | 1283078198.0
+ Western   |  488173672.0
+(13 rows)
+
