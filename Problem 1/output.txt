@@ -1,0 +1,6 @@
+                title                | rating 
+-------------------------------------+--------
+ Gone Girl (2014)                    |    8.1
+ Kingsman: The Secret Service (2014) |    7.7
+(2 rows)
+
