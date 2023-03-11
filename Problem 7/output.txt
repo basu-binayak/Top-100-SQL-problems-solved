@@ -1,0 +1,7 @@
+ name 
+------
+ Amy
+ Mark
+ Alex
+(3 rows)
+
