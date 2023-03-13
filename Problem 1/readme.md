@@ -16,7 +16,7 @@ The result should look like:<br>
 <p align="center">
   <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/6fad35c576792f0dfdba573ee82820df000046af/Problem%201/Screenshot%202023-03-13%20184218.png">
 </p>
-<strong>[Click here](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/e6886e19ce1b54066aedfde70765802dfeffb06e/Problem%201/Query%203.sql)</strong><br> to vie the SQL Query. 
+<em>[Click here](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/e6886e19ce1b54066aedfde70765802dfeffb06e/Problem%201/Query%203.sql)</em> to view the SQL Query. 
 
 
 
