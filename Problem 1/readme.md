@@ -11,7 +11,7 @@ You can access the datset from the file <em>IMDb Dataset</em>
 I have tried to frame some new problems and have written SQL queries for the same.
 
 ### Newly Framed Problem 1
-Write an SQL query which shows the titles of top two films acording to rating in each year.<br>
+Write an SQL query which shows the titles of top two rated films in each year.<br>
 The result should look like:<br>
 <p align="center">
   <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/24e25cf5392ed1dc6e4a5bff632a14703ae6057e/Problem%201/Screenshot%202023-03-13%20182044.png">
