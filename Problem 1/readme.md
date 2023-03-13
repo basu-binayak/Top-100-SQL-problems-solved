@@ -2,7 +2,7 @@
 From the IMDb dataset, print the title and rating of those movies which have a genre starting from 'C' released in 2014 with a budget higher than 4 Crore.
 
 ## IMDb Datset
-You can access the datset from the file <em>IMDb Dataset</em>
+You can access the datset from the file <em><a href = "https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/cdaf4957b98cd71dfe17829101242f48c5be9818/Problem%201/IMDb%20dataset.sql">IMDb Dataset</a></em>
 
 ## Solution
 <em>[Query 1](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/5a2669cef671d25f79616d1a9f1ccc55d7f9c65d/Problem%201/Query%201.sql)</em> and <em>[Query 2](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/e39e6943d9dc94a0363c49e30ca1298bdd975e55/Problem%201/Query%202.sql)</em> are two alternative solutions to the problem given above. 
