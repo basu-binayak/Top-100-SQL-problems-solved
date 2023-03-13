@@ -14,11 +14,11 @@ I have tried to frame some new problems and have written SQL queries for the sam
 Write an SQL query which shows the titles of top two rated films in each year.<br>
 The result should look like:<br>
 <p align="center">
-  <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/24e25cf5392ed1dc6e4a5bff632a14703ae6057e/Problem%201/Screenshot%202023-03-13%20182044.png">
+  <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/6fad35c576792f0dfdba573ee82820df000046af/Problem%201/Screenshot%202023-03-13%20184218.png">
 </p>
 <strong> SQL Query</strong><br>
 <p align="center">
-  <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/776651026e2c4c101aab7bb4178a58a6131871b7/Problem%201/Screenshot%202023-03-13%20183308.png">
+  <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/6fad35c576792f0dfdba573ee82820df000046af/Problem%201/Screenshot%202023-03-13%20184337.png">
 </p>
 
 
