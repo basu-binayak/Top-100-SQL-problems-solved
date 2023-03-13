@@ -5,7 +5,7 @@ From the IMDb dataset, print the title and rating of those movies which have a g
 You can access the datset from the file <em>IMDb Dataset</em>
 
 ## Solution
-<em>Query 1</em> and <em>Query 2</em> are two alternative solutions to the problem given above. 
+<em>Query 1(#https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/5a2669cef671d25f79616d1a9f1ccc55d7f9c65d/Problem%201/Query%201.sql)</em> and <em>Query 2</em> are two alternative solutions to the problem given above. 
 
 ## Newly Framed Problems
 I have tried to frame some new problems and have written SQL queries for the same.
