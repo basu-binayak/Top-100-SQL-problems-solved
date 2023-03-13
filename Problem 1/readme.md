@@ -5,7 +5,7 @@ From the IMDb dataset, print the title and rating of those movies which have a g
 You can access the datset from the file <em>IMDb Dataset</em>
 
 ## Solution
-<em>[Query 1](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/5a2669cef671d25f79616d1a9f1ccc55d7f9c65d/Problem%201/Query%201.sql)</em> and <em>Query 2</em> are two alternative solutions to the problem given above. 
+<em>[Query 1](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/5a2669cef671d25f79616d1a9f1ccc55d7f9c65d/Problem%201/Query%201.sql)</em> and <em>[Query 2](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/e39e6943d9dc94a0363c49e30ca1298bdd975e55/Problem%201/Query%202.sql)</em> are two alternative solutions to the problem given above. 
 
 ## Newly Framed Problems
 I have tried to frame some new problems and have written SQL queries for the same.
@@ -16,4 +16,8 @@ The result should look like:<br>
 <p align="center">
   <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/24e25cf5392ed1dc6e4a5bff632a14703ae6057e/Problem%201/Screenshot%202023-03-13%20182044.png">
 </p>
+<em> SQL Query</em><br>
+![SQLQuery](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/776651026e2c4c101aab7bb4178a58a6131871b7/Problem%201/Screenshot%202023-03-13%20183308.png)
+
+
 
