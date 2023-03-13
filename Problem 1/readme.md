@@ -16,8 +16,10 @@ The result should look like:<br>
 <p align="center">
   <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/24e25cf5392ed1dc6e4a5bff632a14703ae6057e/Problem%201/Screenshot%202023-03-13%20182044.png">
 </p>
-<em> SQL Query</em><br>
-![SQLQuery](https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/776651026e2c4c101aab7bb4178a58a6131871b7/Problem%201/Screenshot%202023-03-13%20183308.png)
+<strong> SQL Query</strong><br>
+<p align="center">
+  <img src="https://github.com/basu-binayak/Top-100-SQL-problems-solved/blob/776651026e2c4c101aab7bb4178a58a6131871b7/Problem%201/Screenshot%202023-03-13%20183308.png">
+</p>
 
 
 
